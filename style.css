@@ -57,6 +57,11 @@ section {
     text-transform: uppercase;
 }
 
+#pName {
+    color: #ae834e;
+    font-weight: 700;
+}
+
 .btn {
     margin-top: 1rem;
     display: inline-block;
